@@ -1,5 +1,5 @@
 @charset "UTF-8";
-@import url('https://fonts.googleapis.com/css?family=Nosifer');
+@import url('https://fonts.googleapis.com/css?family=Niconne');
 @font-face {
   font-family: 'icomoon';
   src: url("../fonts/icomoon/icomoon.eot?srf3rx");
@@ -23,7 +23,8 @@ body {
   margin: 0;
 }
 h1 , h2,.pwelcome{
-  font-family: 'Nosifer', cursive !important;
+  font-family: 'Niconne', cursive !important;
+  font-size: 320% !important;
 }
 .pwelcome{
   font-size: 120%;
