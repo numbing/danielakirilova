@@ -24,12 +24,15 @@ body {
 }
 h1 , h2,.pwelcome{
   font-family: 'Niconne', cursive !important;
-  font1-size: 322% !important;
+  font-size: 322% !important;
 }
 .first{
   margin-left: 3%;
 }
+.sofia1{
+  margin-left: 15%;
 
+}
 .sofia2{
   margin-top: 50px;
 }
